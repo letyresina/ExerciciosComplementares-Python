@@ -21,3 +21,4 @@ print(f"O porcentual de votos brancos são de {porcentagemBranco:.2f}%")
 print(f"O porcentual de votos nulos são de {porcentagemNulo:.2f}%")
 print(f"O porcentual de votos válidos são de {porcentagemValido:.2f}%")
 
+# Para arredondar, usar {round(variavel, 2)} (o 2 significa quantas casas quero arrendondar)
